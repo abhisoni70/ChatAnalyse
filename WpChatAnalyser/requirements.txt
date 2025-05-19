@@ -1,5 +1,5 @@
 ﻿streamlit
-python==2.0.2
+
 matplotlib.pyplot==2.0.2
 seaborn
 urlextract
