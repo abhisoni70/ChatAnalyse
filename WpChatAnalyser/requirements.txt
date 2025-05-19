@@ -5,7 +5,7 @@ seaborn
 urlextract
 wordcloud
 pandas
-collections
-emoji
+collections==2.0.2
+emoji==2.0.2
 fontTools.misc.cython
-re
+re==2.0.2
