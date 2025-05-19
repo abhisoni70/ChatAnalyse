@@ -1,11 +1,8 @@
-﻿streamlit
-
-matplotlib==2.0.2
+streamlit
+matplotlib>=3.5
 seaborn
 urlextract
 wordcloud
 pandas
-collections==2.0.2
-emoji==2.0.2
-fontTools.misc.cython
-re==2.0.2
+emoji>=2.0.2
+fonttools
